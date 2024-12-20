@@ -9,10 +9,11 @@ The basic idea is to make an app (react native) that will allow the user to crea
 - Node
 - Typescript
 - Tailwindcss
+- Nodemon
 
 # Todo:
 - [x] Create a basic react native app
-- [ ] Create a basic express server
+- [x] Create a basic express server
 - [ ] Create a basic postgres database
 - [ ] Create a basic docker container for the app
 - [ ] Build ui for frontend with scanner and object creation
