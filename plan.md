@@ -11,7 +11,7 @@ The basic idea is to make an app (react native) that will allow the user to crea
 - Tailwindcss
 
 # Todo:
-- [ ] Create a basic react native app
+- [x] Create a basic react native app
 - [ ] Create a basic express server
 - [ ] Create a basic postgres database
 - [ ] Create a basic docker container for the app
