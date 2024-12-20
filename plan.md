@@ -11,10 +11,10 @@ The basic idea is to make an app (react native) that will allow the user to crea
 - Tailwindcss
 
 # Todo:
-- [] Create a basic react native app
-- [] Create a basic express server
-- [] Create a basic postgres database
-- [] Create a basic docker container for the app
-- [] Build ui for frontend with scanner and object creation
-- [] Build api endpoint for creating, editing and deleting objects
-- [] Build api endpoint for scanning qr codes
+- [ ] Create a basic react native app
+- [ ] Create a basic express server
+- [ ] Create a basic postgres database
+- [ ] Create a basic docker container for the app
+- [ ] Build ui for frontend with scanner and object creation
+- [ ] Build api endpoint for creating, editing and deleting objects
+- [ ] Build api endpoint for scanning qr codes
